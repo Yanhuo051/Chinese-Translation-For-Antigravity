@@ -1,0 +1,1723 @@
+[menu]
+File|文件
+Edit|编辑
+Workspace|工作区
+View|视图
+Window|窗口
+Help|帮助
+Docs|文档
+About Antigravity|关于 Antigravity
+Check for Updates|检查更新
+Checking for Updates...|正在检查更新…
+Downloading Update...|正在下载更新…
+Restart to Update|重启以更新
+Quit|退出
+New Window|新建窗口
+New Conversation|新建对话
+Create Project|创建项目
+Open Project|打开项目
+Open Folder|打开文件夹
+Close Window|关闭窗口
+Close Tab|关闭标签页
+Command Palette|命令面板
+Open Command Palette|打开命令面板
+Zoom In|放大
+Zoom Out|缩小
+Reset Zoom|重置缩放
+Actual Size|实际大小
+Minimize|最小化
+Maximize|最大化
+Restore|还原
+Close|关闭
+Toggle Full Screen|切换全屏
+Toggle Developer Tools|切换开发者工具
+Toggle Sidebar|切换侧栏
+Open Settings|打开设置
+Toggle Side Panel|切换侧面板
+Reload|重新加载
+Connect to WSL|连接到 WSL
+Reopen Locally|在本机重新打开
+# Expanded coverage added in v0.3.0
+Open Folder (Interactive)|打开文件夹（交互式）
+Switch IDE Workspace|切换 IDE 工作区
+Open Antigravity IDE|打开 Antigravity IDE
+Open in Antigravity IDE|在 Antigravity IDE 中打开
+Reload Window|重新加载窗口
+Close Other Tabs|关闭其他标签页
+Close Tabs to the Left|关闭左侧标签页
+Close Tabs to the Right|关闭右侧标签页
+# Antigravity 2.35.1 adaptation added in v0.4.0
+Application Menu|应用菜单
+[sidebar]
+Projects|项目
+Workspaces|工作区
+Conversations|对话
+Conversations (Archived)|对话（已归档）
+Projects (Archived)|项目（已归档）
+Workspaces (Archived)|工作区（已归档）
+New Conversation|新建对话
+New conversations|新对话
+New Project|新建项目
+Create Project|创建项目
+Add Project|添加项目
+Add project|添加项目
+Add Folder|添加文件夹
+Add folder|添加文件夹
+No projects created|尚未创建项目
+No conversations yet|暂无对话
+No pinned conversations|暂无置顶对话
+No matching conversations|没有符合条件的对话
+No archived conversations|暂无归档对话
+Drop to add to group|拖到此处可加入分组
+Pinned|已置顶
+Archived|已归档
+Active|进行中
+Recent|最近
+Today|今天
+Yesterday|昨天
+This Week|本周
+This Month|本月
+Older|更早
+Ungrouped|未分组
+Outside of project|项目之外
+Standalone|独立对话
+Standalone Conversations|独立对话
+Automations|自动化
+Customizations|自定义
+Plugins|插件
+Settings|设置
+Show Sidebar|显示侧栏
+Hide Sidebar|隐藏侧栏
+Toggle Sidebar|切换侧栏
+Toggle Overview Panel|切换概览面板
+Customize Sidebar|自定义侧栏
+Customize sidebar|自定义侧栏
+Archive project|归档项目
+Archived Only|仅显示已归档
+Auto Pin|自动置顶
+Group by|分组依据
+Group By|分组依据
+Sort by|排序依据
+Sort By|排序依据
+Sort folders by|文件夹排序依据
+Search conversations|搜索对话
+Search Conversations|搜索对话
+Collapse all|全部折叠
+Expand all|全部展开
+Conversation|对话
+# Expanded coverage added in v0.3.0
+Sort Conversations|对话排序
+Filter and Sort|筛选与排序
+Display Options|显示选项
+Customize Sections|自定义分区
+Last Updated|最近更新
+Last Prompt|最近提问
+Last Activity|最近活动
+Custom Order|自定义顺序
+Manual Order|手动排序
+New Group|新建分组
+Rename Group|重命名分组
+Group name|分组名称
+Move to Group|移动到分组
+Idle|空闲
+Idle Conversations|空闲对话
+Unread|未读
+Only Archived|仅已归档
+Only Automations|仅自动化
+Only applies when grouped by status|仅在按状态分组时生效
+Show Automation Conversations|显示自动化对话
+Show Plugin Conversations|显示插件对话
+Show or Hide Plugins|显示或隐藏插件
+Show in Sidebar|在侧栏中显示
+Close Sidebar|关闭侧栏
+Toggle sidebar|切换侧栏
+Not in Project|未归入项目
+Search conversations...|搜索对话…
+Search for conversations...|搜索对话…
+Search projects...|搜索项目…
+Loading conversations...|正在加载对话…
+Archive Workspace|归档工作区
+Remote Projects|远程项目
+A group with this name already exists.|已存在同名分组。
+A project with this name already exists.|已存在同名项目。
+# Antigravity 2.35.1 adaptation added in v0.4.0
+Outside of Project|项目之外
+Collapse All|全部折叠
+Expand All|全部展开
+Inbox|收件箱
+Inbox Mode|收件箱模式
+Show Automations|显示自动化
+Show Plugins|显示插件
+Subtitle|副标题
+Subtitles|副标题
+Decorations|状态标记
+Automatically pin conversations when you send a message. Unpin as needed to keep your Pinned list focused.|发送消息时自动置顶对话。可按需取消置顶，让置顶列表保持精简。
+[settings]
+Settings|设置
+Global|全局
+Global Settings|全局设置
+Project Settings|项目设置
+Project General|项目常规设置
+Project Folders|项目文件夹
+Project Agent|项目智能体
+Settings for this project|此项目的设置
+Account|账户
+General|常规
+Appearance|外观
+Advanced|高级
+Advanced Settings|高级设置
+Application|应用
+Browser|浏览器
+Chat|对话
+Chat Layout|对话布局
+Input Box|输入框
+Keyboard Shortcuts|键盘快捷键
+Shortcuts|快捷键
+Accessibility|无障碍
+Terminal|终端
+License|许可证
+Subscription|订阅
+Email|电子邮箱
+Nickname|昵称
+App version|应用版本
+App Version|应用版本
+Check for updates|检查更新
+Updater|更新程序
+Theme|主题
+Light|浅色
+Dark|深色
+System|跟随系统
+System default|系统默认
+Font Size|字号
+Font size|字号
+UI Scale|界面缩放
+Animations|动画
+Sound|声音
+Volume|音量
+Notifications|通知
+Voice|语音
+Microphone|麦克风
+Voice mode|语音模式
+Input device for voice mode and dictation.|语音模式和听写使用的输入设备。
+Save audio recordings|保存录音
+Only stored on your machine.|录音仅保存在本机。
+Recordings|录音
+Delete all recordings?|删除所有录音吗？
+Projects|项目
+Workspaces|工作区
+Agents|智能体
+Environments|环境
+Local Windows environment|本机 Windows 环境
+Remote|远程
+Resources|资源
+Folders|文件夹
+Default|默认
+Default Customizations|默认自定义项
+Customize Global Skills|自定义全局技能
+Configure workspace-specific permissions, resources, and customizations.|为工作区设置专用的权限、资源和自定义项。
+Custom Agents|自定义智能体
+Skills|技能
+Rules|规则
+Hooks|钩子
+Plugins|插件
+MCP Servers|MCP 服务器
+Installed MCP Servers|已安装的 MCP 服务器
+Refresh MCP servers|刷新 MCP 服务器
+Add MCP Servers|添加 MCP 服务器
+Add MCP Server|添加 MCP 服务器
+Search MCP servers by name|按名称搜索 MCP 服务器
+Customizations|自定义
+Queued messages|排队消息
+Configure when follow-up messages are sent.|设置后续消息的发送时机。
+Enter to send|按 Enter 发送
+Send messages with the keyboard's Enter key instead of starting a new line.|按 Enter 发送消息。
+Send message|发送消息
+Choose which key sends a message in the chat composer.|选择在对话输入框中发送消息的按键。
+Enter always submits. This adds a second shortcut.|Enter 始终用于发送。此设置会添加第二个快捷键。
+New conversation button|新建对话按钮
+Which workspace the New Conversation button and keyboard shortcut start you in.|设置使用新建对话按钮或快捷键时进入的工作区。
+Command setup script|命令初始化脚本
+A shell setup script run before every command the agent executes.|智能体每次执行命令前都会运行的 shell 初始化脚本。
+Enable terminal sandbox|启用终端沙盒
+Run terminal commands with sandbox restrictions.|在沙盒限制下运行终端命令。
+Terminal command auto execution|自动执行终端命令
+Controls whether terminal commands require your approval before running.|设置运行终端命令之前是否需要你批准。
+Controls whether terminal commands require your approval before running. Note: A change to this setting will only apply to new messages sent to the agent. In-progress responses will use the previous setting value.|设置运行终端命令之前是否需要你批准。更改仅对之后发送的消息生效，进行中的回复沿用原设置。
+Enable Sounds for Agent|启用智能体提示音
+Play a sound when your action is needed or the agent finishes.|需要你操作或智能体完成任务时播放提示音。
+Enable Notifications for Agent|启用智能体通知
+Show system notifications when your action is needed or the agent finishes.|需要你操作或智能体完成任务时显示系统通知。
+Conversation Steps|对话步骤
+Choose how much detail is shown during a conversation.|选择对话过程中显示的步骤详略。
+Custom Context Menus|自定义右键菜单
+Replace the default browser right-click menu with quick actions.|使用快捷操作菜单替代浏览器默认右键菜单。
+Screen Reader Mode|屏幕阅读器模式
+Optimize the interface and terminal output for screen readers.|优化屏幕阅读器对界面和终端输出的朗读效果。
+Conversation Width|对话宽度
+Configure the maximum width of the conversation panel.|设置对话面板的最大宽度。
+Terminal Placement|终端位置
+Choose where terminal sessions appear.|选择终端会话的显示位置。
+Markdown Artifact Width|Markdown 产物宽度
+Configure the default width of markdown artifacts.|设置 Markdown 产物的默认宽度。
+Context and Quota Indicator|上下文与配额指示器
+Show how full the context window is next to the send button. Click it for a breakdown and to see your model quota.|在发送按钮旁显示上下文窗口使用情况。点击查看明细和模型配额。
+Open Links In|链接打开方式
+Choose where links open by default when clicked.|选择点击链接时默认打开的位置。
+Open in Side Panel|在侧面板中打开
+Embedded web preview|内嵌网页预览
+Open in Built-in Browser|在内置浏览器中打开
+Enable Browser Agent|启用浏览器智能体
+Let the agent open URLs, read web pages, and interact with browser content. This gives the agent access to important (and often critical) knowledge and methods of validation, but any browser integration does increase exposure to external malicious parties for security exploits.|允许智能体打开网址、阅读网页并与网页内容互动。智能体可以借此获取重要信息并进行验证，同时浏览器集成也会增加遭遇外部恶意攻击的风险。
+Browser Javascript Execution Policy|浏览器 JavaScript 执行策略
+Controls whether the agent can run custom JavaScript to automate complex browser actions.|设置是否允许智能体运行自定义 JavaScript，以自动执行复杂的浏览器操作。
+Include Jetski Default Customizations|包含 Jetski 默认自定义项
+Include default customizations, such as default skills.|包含默认技能等自定义项。
+Prevent Sleep|阻止休眠
+Prevent the computer from sleeping while the app is running.|应用运行期间阻止计算机休眠。
+Keep In Menu Bar|保留菜单栏图标
+Keep the app accessible from the menu bar and running in the background when all windows are closed.|关闭所有窗口后，应用仍在后台运行，可从菜单栏打开。
+Automatic Check for Updates|自动检查更新
+Automatically prompt you to restart the app when a new update is available. When disabled, you can check for updates manually from the app menu.|有新版本时自动提醒你重启应用。关闭后可从应用菜单手动检查更新。
+Enable Remote Control|启用远程控制
+Manage your conversations from the companion website.|通过配套网站管理对话。
+Remote Control|远程控制
+Device Name|设备名称
+A label for this computer when you connect from another device. Changing it reconnects.|从其他设备连接时显示此计算机的名称。修改名称会重新连接。
+Open in Remote Control|在远程控制中打开
+Work with local agents from another device.|从其他设备使用本机智能体。
+Continue your work from another device with Remote Control. Scan the QR code or open the link below.|使用远程控制从其他设备继续工作。请扫描二维码或打开下方链接。
+Default workspace VCS|默认工作区版本控制系统
+VCS used when creating a new workspace, including workspaces generated based off your initial prompt.|创建工作区（包括根据初始提示创建的工作区）时使用的版本控制系统。
+Sync JJ worktrees to head|将 JJ 工作树同步到 head
+Sync newly created JJ worktrees to head when starting a conversation.|开始对话时，将新建的 JJ 工作树同步到 head。
+Use full VCS clones for Best of N|为 Best of N 使用完整的版本控制克隆
+Use full Git clones for Best of N|为 Best of N 使用完整的 Git 克隆
+Quota|配额
+Model Quota|模型配额
+Refresh quota and credits data|刷新配额与点数数据
+Manage your model quota and credits.|管理模型配额和点数。
+Plan|套餐
+Model Credits|模型点数
+Enable AI Credit Overages|允许超额使用 AI 点数
+Pay As You Go|按量付费
+Select your license|选择许可证
+Not Signed In|未登录
+Enable Telemetry|启用遥测
+Marketing Emails|营销邮件
+Manage your plan, credentials, and general preferences.|管理套餐、凭据和常规偏好设置。
+Remote Agents Data|远程智能体数据
+Delete All Remote Agents Data|删除所有远程智能体数据
+Delete All Remote Agents Data?|确认删除所有远程智能体数据？
+Permanently delete your remote conversations, projects, scheduled tasks, connected plugins and settings. Data in the desktop app and your Google account are not affected.|永久删除远程对话、项目、计划任务、已连接的插件和设置。桌面应用和 Google 账户中的数据保留。
+Browsing Data|浏览数据
+Clear history, cookies and site data from the built-in browser, or manage cookies for each site.|清除内置浏览器的历史记录、Cookie 和网站数据，或按网站管理 Cookie。
+Cookies by Site|按网站管理 Cookie
+Clear Browsing Data?|清除浏览数据吗？
+Browser Actuation Permissions|浏览器操作权限
+Execute URLs|网页操作
+Allow/deny agent browser actuation access to specific URLs.|允许或禁止智能体操作特定网址对应的网页。
+Download files|下载文件
+Allow/deny agent browser file downloads from specific sites.|允许或禁止智能体从特定网站下载文件。
+Organization Allowed Domains (Read-Only)|组织允许的域名（只读）
+Download Location|下载位置
+Browsing History|浏览历史
+Browser Subagent|浏览器子智能体
+Browser Actuation Rules|浏览器操作规则
+Configure built-in browser, link opening, and browser subagent preferences.|配置内置浏览器、链接打开方式和浏览器子智能体偏好。
+Configure the agent's visual theme and display preferences.|设置智能体的界面主题和显示偏好。
+Manage your notification preferences.|管理通知偏好。
+Set the volume of agent sounds.|设置智能体提示音的音量。
+Keybinding Scheme|快捷键方案
+Customize Shortcuts|自定义快捷键
+Edit Shortcut|编辑快捷键
+Add Shortcut|添加快捷键
+Remove Shortcut|删除快捷键
+Reset to Default|恢复默认
+Manage your keybinding scheme and customize shortcuts in VS Code.|管理快捷键方案，并在 VS Code 中自定义快捷键。
+Keyboard shortcuts for quick navigation and control.|用于快速导航与操作的键盘快捷键。
+VS Code Default|VS Code 默认
+Antigravity (AGY) Style|Antigravity（AGY）风格
+Permission Settings|权限设置
+Tool permissions|工具权限
+Tool Permissions|工具权限
+File Permissions|文件权限
+Network Permissions|网络权限
+Terminal Commands|终端命令
+Commands Outside Sandbox|沙盒外命令
+MCP Tools|MCP 工具
+Outside of folders file access policy|工作文件夹外的文件访问策略
+Configures how the agent tries to access files outside of its working folders.|设置智能体访问工作文件夹之外文件的方式。
+Enable sandbox mode|启用沙盒模式
+Restricts agent tools to a secure, isolated local sandbox.|将智能体工具限制在隔离的本地沙盒内。
+Security preset|安全预设
+Controls permissions for remote conversations.|设置远程对话的权限。
+Terminal & Tooling Permissions|终端和工具权限
+Permission preset|权限预设
+Local Permissions|本地权限
+Permission Details|权限详情
+Full machine|整台计算机
+Turbo mode|极速模式
+Controls the actions the agent can take.|设置智能体可执行的操作。
+This Computer|此计算机
+File reads|读取文件
+File writes|写入文件
+Read URLs|读取网址
+Terminal commands|终端命令
+Commands outside sandbox|沙盒外命令
+MCP tools|MCP 工具
+External tools the agent can call via Model Context Protocol.|智能体可通过模型上下文协议调用的外部工具。
+File access rules|文件访问规则
+Network access rules|网络访问规则
+Configure allowed and denied paths for file reads and writes.|设置允许和禁止读写的文件路径。
+Configure allowed and denied URLs for reading.|设置允许和禁止读取的网址。
+Allow/deny agent read access to specific files or directories.|允许或禁止智能体读取指定文件或目录。
+Allow/deny agent write access to specific files or directories.|允许或禁止智能体写入指定文件或目录。
+Allow/deny agent read access to specific URLs or domains.|允许或禁止智能体读取指定网址或域名。
+Allow/deny specific terminal commands.|允许或禁止执行指定的终端命令。
+Allow/deny agent command execution outside the sandbox.|允许或禁止智能体在沙盒外执行命令。
+Configure allowed terminal commands.|设置可执行的终端命令。
+Configure allowed commands outside the sandbox.|设置可在沙盒外执行的命令。
+Configure external tools via Model Context Protocol.|配置通过模型上下文协议接入的外部工具。
+Local|本地
+Labs|实验室
+Try out early-stage features before they ship. These may be changed or removed at any time. These features are experimental, and we make no guarantees about performance or functionality.|提前体验实验功能。功能可能随时更改或移除，性能与功能仍可能变化。
+Configure agent execution, queued message delivery, and permissions.|设置智能体执行方式、排队消息的发送时机和权限。
+Interface Layout|界面布局
+Developer|开发者
+Developer-only tools. These settings do not affect other users.|开发者专用工具。这些设置仅对当前用户生效。
+App update|应用更新
+Update Available|有可用更新
+Background Tasks|后台任务
+Background tasks and terminals agents left running, across all conversations.|查看各个对话中仍在运行的后台任务和终端。
+Token Usage|词元用量
+Orchestrator Settings|编排器设置
+Orchestrator Model|编排模型
+Executor Model|执行模型
+Choose the models Orchestrator uses. A larger, smarter orchestrator model with a faster, cheaper executor gives high quality for fewer tokens.|选择编排器使用的模型。可用能力更强的编排模型搭配更快、更省的执行模型。
+Carries out the plan: searches, edits, builds, and tests. Pick a faster, cheaper model.|负责执行计划，包括搜索、编辑、构建和测试。可选用更快、更省的模型。
+Google One Referral|Google One 推荐
+Share your referral link with friends|与朋友分享你的推荐链接
+Managed by Enterprise Gateway|由企业网关管理
+United States|美国
+Europe|欧洲
+Learn more|了解更多
+MCP Configuration Error:|MCP 配置错误：
+MCP Install Error:|MCP 安装错误：
+Plugin Operation Error:|插件操作失败：
+Options|选项
+Manage Hooks|管理钩子
+Add Hook Card|添加钩子卡片
+Delete Hook|删除钩子
+Delete Handler|删除处理程序
+Configure hooks that run on agent lifecycle events.|配置智能体生命周期事件触发的钩子。
+Build With Google Plugins|Build With Google 插件
+Browse and enable plugins from the Build With Google catalog.|浏览并启用 Build With Google 目录中的插件。
+When enabled, the agent will include default customizations, including default skills.|启用后，智能体会加载默认技能等自定义项。
+Upload Files|上传文件
+Connected Google Drive and GitHub resources|已连接的 Google Drive 和 GitHub 资源
+Files and resources in cloud workspaces|云端工作区内的文件和资源
+# Settings and nested controls added in v0.2.0
+Models|模型
+Models & Usage|模型与用量
+Your Plan|当前套餐
+Your Plan:|当前套餐：
+No quota information available.|暂无配额信息。
+Upgrade|升级
+See Activity|查看用量明细
+Get More AI Credits|获取更多 AI 点数
+For Antigravity Business consumption options, see|Antigravity Business 的用量选项请参阅
+documentation|文档
+Low|低
+Medium|中
+High|高
+Minimal|最低
+Max|最高
+Chime volume|提示音音量
+No matching items|没有匹配的项目
+Navigation|导航
+Conversation|对话
+Layout Controls|布局控制
+VS Code Keyboard Shortcuts|VS Code 键盘快捷键
+Open Keyboard Shortcuts|打开键盘快捷键
+Search shortcuts|搜索快捷键
+Search shortcuts...|搜索快捷键…
+Search shortcuts…|搜索快捷键…
+No keyboard shortcuts found matching your filter.|没有符合筛选条件的快捷键。
+Choose between non-colliding VS Code defaults or standalone Antigravity chords.|选择与 VS Code 默认键位兼容的方案，或使用 Antigravity 独立的组合键方案。
+All active Antigravity shortcuts and user keybinding overrides are managed directly by VS Code.|当前的 Antigravity 快捷键和自定义键位由 VS Code 管理。
+Inspect live bindings or record custom key chords filtered to|查看当前键位或录制自定义组合键，列表仅显示
+commands.|开头的命令。
+Recommended|推荐
+Honors standard VS Code shortcuts without collisions (e.g. Ctrl+L Focus Input, Ctrl+Shift+L New Conversation, Ctrl+Shift+A Picker, Ctrl+Shift+, Settings).|兼容 VS Code 的标准快捷键。例如 Ctrl+L 聚焦输入框，Ctrl+Shift+L 新建对话，Ctrl+Shift+A 打开选择器，Ctrl+Shift+, 打开设置。
+Honors standard VS Code shortcuts without collisions (e.g. ⌘L Focus Input, ⌘⇧L New Conversation, ⌘⇧A Picker, ⌘⇧, Settings).|兼容 VS Code 的标准快捷键。例如 ⌘L 聚焦输入框，⌘⇧L 新建对话，⌘⇧A 打开选择器，⌘⇧, 打开设置。
+Uses standalone Antigravity chords (e.g. Ctrl+I Focus Input, Ctrl+Shift+O New Conversation, Ctrl+K Picker in chat, Ctrl+, Settings, Ctrl+[/] History). Replaces Go to Symbol (Ctrl+Shift+O) and Trigger Suggest (Ctrl+I), and rebinds VS Code Settings to Ctrl+Alt+,.|沿用 Antigravity 的组合键。例如 Ctrl+I 聚焦输入框，Ctrl+Shift+O 新建对话，Ctrl+K 打开对话选择器，Ctrl+, 打开设置，Ctrl+[/] 浏览历史。此方案会替换「转到符号」和「触发建议」的键位，并将 VS Code 设置改为 Ctrl+Alt+,。
+Uses standalone Antigravity chords (e.g. ⌘I Focus Input, ⌘⇧O New Conversation, ⌘K Picker in chat, ⌘, Settings, ⌘[/] History). Replaces Go to Symbol (⌘⇧O) and Trigger Suggest (⌘I), and rebinds VS Code Settings to ⌘⌥,.|沿用 Antigravity 的组合键。例如 ⌘I 聚焦输入框，⌘⇧O 新建对话，⌘K 打开对话选择器，⌘, 打开设置，⌘[/] 浏览历史。此方案会替换「转到符号」和「触发建议」的键位，并将 VS Code 设置改为 ⌘⌥,。
+This shortcut is reserved by browser tabs and may not trigger in Web mode. It works in the Desktop Hub or installed PWA.|此快捷键由浏览器标签页保留，网页版可能无法触发。它可在桌面应用或已安装的 PWA 中使用。
+Press keys...|按下组合键…
+Stop Editing|结束编辑
+Cancel recording|取消录制
+Managed by application menu|由应用菜单管理
+managed by application menu|由应用菜单管理
+reserved for sidebar switching|保留用于切换侧栏
+Conflict: also assigned to|键位冲突，还分配给
+Reset All to Defaults|全部恢复为默认
+Reset all shortcuts to defaults|将所有快捷键恢复为默认
+Click|单击
+Middle Click|单击鼠标中键
+Accept Step|接受步骤
+Reject Step|拒绝步骤
+Toggle Model Selector|切换模型选择器
+Start Voice Recording|开始录音
+Stop Voice Recording|停止录音
+Toggle Voice Recording|切换录音
+Mute Voice Mic|将语音麦克风静音
+Mute Voice Speaker|将语音扬声器静音
+Toggle Terminal|切换终端
+Toggle Word Wrap|切换自动换行
+Toggle Project Selector|切换项目选择器
+Toggle Environment Selector|切换环境选择器
+Toggle Side Panel|切换侧面板
+Toggle Maximize Side Panel|切换侧面板最大化
+Toggle Overview Panel|切换概览面板
+New Conversation|新建对话
+New Window|新建窗口
+Close Tab|关闭标签页
+Open Settings|打开设置
+Split Terminal|拆分终端
+Split Conversation Vertically|垂直拆分对话
+Split Conversation Horizontally|水平拆分对话
+Equalize Split Panes|均分各窗格
+New Terminal Tab|新建终端标签页
+New Tab|新建标签页
+Reopen Closed Tab|重新打开关闭的标签页
+File Picker|文件选择器
+Open Command Palette|打开命令面板
+Open Conversation Picker|打开对话选择器
+Search Conversations|搜索对话
+Open Workspace Selector|打开工作区选择器
+Open in Cider|在 Cider 中打开
+Add to Chat|添加到对话
+Quote Selection|引用所选内容
+Side Question Selection|针对所选内容提出补充问题
+Open in Code Search|在代码搜索中打开
+Comment on Selection|评论所选内容
+Focus Input|聚焦输入框
+Zoom In|放大
+Zoom Out|缩小
+Reset Zoom|重置缩放
+Find in Pane|在窗格中查找
+Go Back|后退
+Go Forward|前进
+Code Search|代码搜索
+Automations|自动化
+Select Next Conversation|选择下一条对话
+Select Previous Conversation|选择上一条对话
+Select Sidebar Item 1|选择侧栏第 1 项
+Select Sidebar Item 2|选择侧栏第 2 项
+Select Sidebar Item 3|选择侧栏第 3 项
+Select Sidebar Item 4|选择侧栏第 4 项
+Select Sidebar Item 5|选择侧栏第 5 项
+Select Sidebar Item 6|选择侧栏第 6 项
+Select Sidebar Item 7|选择侧栏第 7 项
+Select Sidebar Item 8|选择侧栏第 8 项
+Select Sidebar Item 9|选择侧栏第 9 项
+Move Conversation Up|上移对话
+Move Conversation Down|下移对话
+Terminal: Add to Chat|终端：添加到对话
+Refresh gcert Credentials|刷新 gcert 凭据
+Toggle Sidebar|切换侧栏
+Provide Feedback|提供反馈
+Copy Conversation Markdown|复制对话的 Markdown
+Archive This Conversation|归档此对话
+Pin This Conversation|置顶此对话
+Unpin This Conversation|取消置顶此对话
+Find in Conversation|在对话中查找
+Jump to Previous Prompt|跳转至上一条提示词
+Jump to Next Prompt|跳转至下一条提示词
+Mark All as Read|全部标为已读
+Mark This Conversation as Read|将此对话标为已读
+Mark This Conversation as Unread|将此对话标为未读
+Rename This Conversation|重命名此对话
+Move to New Group|移至新分组
+Remove from Group|移出分组
+Open Trajectory Debug View|打开执行轨迹调试视图
+Copy Conversation ID|复制对话 ID
+Copy Trajectory ID|复制执行轨迹 ID
+Download Diagnostics|下载诊断信息
+Toggle Between Light/Dark Themes|切换浅色和深色主题
+Connect to SSH Host…|连接到 SSH 主机…
+Stop SSH Server…|停止 SSH 服务器…
+Switch to This Computer|切换到此计算机
+Previous Side Panel Tab|侧面板的上一个标签页
+Next Side Panel Tab|侧面板的下一个标签页
+Collapse All Folders|折叠所有文件夹
+Expand All Folders|展开所有文件夹
+Cancel Generation|取消生成
+Submit Prompt (Alternate to Enter)|发送提示词（Enter 的备选快捷键）
+Send Immediately|立即发送
+Queue|加入队列
+Interrupt the agent and send immediately.|中断智能体并立即发送消息。
+Queue until after the current turn.|将消息加入队列，等当前轮次结束后发送。
+Press Cmd+Enter to send, Enter for a new line.|按 Cmd+Enter 发送，按 Enter 换行。
+Press Ctrl+Enter to send, Enter for a new line.|按 Ctrl+Enter 发送，按 Enter 换行。
+Press Enter to send, Shift+Enter for a new line.|按 Enter 发送，按 Shift+Enter 换行。
+Always Proceed|始终执行
+Auto|自动
+Request Review|请求审核
+Require Review|必须审核
+Proceed in Sandbox|在沙盒内自动执行
+The agent never asks for confirmation before executing terminal commands (except those in the Deny list). This provides the agent with the maximum ability to operate over long periods without intervention, but also has the highest risk of the agent executing an unsafe terminal command.|除拒绝列表中的命令外，智能体执行终端命令前不会请求确认。这样能让智能体长时间自主运行，同时执行不安全命令的风险也最高。
+Terminal commands automatically proceed inside the sandbox. A command that needs to leave the sandbox proceeds only if an agent judges it reversible, and otherwise requests review.|沙盒内的终端命令会自动执行。需要在沙盒外运行的命令，仅在智能体判断可撤销时自动执行，其余情况会请求审核。
+The agent always asks for confirmation before executing terminal commands (except those in the Allow list).|除允许列表中的命令外，智能体执行终端命令前都会请求确认。
+Terminal command automatically proceeds if the command runs inside the sandbox. Otherwise, it requests review.|沙盒内的终端命令自动执行，沙盒外的命令需要审核。
+Inherit Global|继承全局设置
+Inherits your Global Permissions when working|工作时沿用全局权限
+Manually customize individual settings.|逐项手动设置权限。
+Global Permissions|全局权限
+Cloud Permissions|云端权限
+Always Ask|始终询问
+Disabled by organization policy|组织策略已停用此选项
+Terminal sandbox is not supported in this environment|此环境不支持终端沙盒
+Agent Settings|智能体设置
+Terminal Command Auto Execution|自动执行终端命令
+Enable Sandbox Mode|启用沙盒模式
+Security Preset|安全预设
+Permission Preset|权限预设
+File Reads|读取文件
+File Writes|写入文件
+The agent can read and write files in your project.|智能体可以读写项目内的文件。
+Requires manual review for all terminal commands and file accesses outside of the working folders.|所有终端命令和工作文件夹外的文件访问都需要人工审核。
+Useful for typical development with an emphasis on security. It prioritizes safety over speed by requiring manual approval for all terminal commands and files outside the project directory.|适合重视安全性的日常开发。所有终端命令和项目目录外的文件访问都需要人工批准。
+All terminal commands require review. The agent can read or write to any file in the machine.|所有终端命令都需要审核。智能体可以读写整台计算机上的文件。
+Useful for tasks that require file access across your full machine. The agent has full read and write access to all local files, but all proposed terminal commands require manual review and approval before running.|适用于需要访问整台计算机文件的任务。智能体可读写本地文件，所有终端命令在运行前都须经人工审核和批准。
+Turbo|极速模式
+Disables all safety barriers for maximal iteration velocity.|停用所有防护，以便更快地执行任务。
+A high-risk mode that disables all safety barriers. The agent operates with full system access, auto-executes all terminal commands, and reads or writes to all local files without review prompts.|此高风险模式将停用所有防护。智能体拥有完整的系统访问权限，可自动执行终端命令，并直接读写所有本地文件。
+Modify permissions for file, terminal, and MCP tools.|修改文件、终端和 MCP 工具的权限。
+Modify permissions for file and terminal tools.|修改文件和终端工具的权限。
+Your agent’s ability to execute commands is also controlled by enterprise security policies.|智能体执行命令的权限也受企业安全策略约束。
+Configure what the agent can do in local and remote conversations.|设置智能体在本地和远程对话中可以执行的操作。
+Configure global allowed and denied resource permissions.|设置全局资源访问的允许与拒绝规则。
+Learn more about|详细了解
+Also includes|还包括
+Enter tool name or server...|输入工具名称或服务器…
+New Workspace|新建工作区
+No Project|无项目
+Last Workspace|上次使用的工作区
+Create a new workspace from your first message.|根据第一条消息创建新工作区。
+Start without a workspace, for general questions.|不使用工作区，适合咨询一般问题。
+Reuse your last workspace.|继续使用上次的工作区。
+New Conversation Button|新建对话按钮
+Best of N|多方案择优（Best of N）
+Default Cog repository|默认 Cog 仓库
+Git-on-Borg repository used when creating a new Cog workspace from your initial prompt (e.g., chromium/src or android/platform/superproject).|根据初始提示词创建 Cog 工作区时使用的 Git-on-Borg 仓库，例如 chromium/src 或 android/platform/superproject。
+Default Cog branch / ref|默认 Cog 分支或引用
+Optional branch or ref used when creating a new Cog workspace (defaults to main if unset).|创建 Cog 工作区时使用的可选分支或引用。留空时使用 main。
+Give each Best of N fork a full clone of your workspace, including its local commit history. Choosing a winner then gives your workspace that fork's state, so the commits it made are kept. Forks take longer to create than the default CitC clone.|为多方案择优中的每个分支完整克隆工作区，包括本地提交历史。选出获胜方案后，工作区会采用该分支的状态并保留其提交。创建分支比默认的 CitC 克隆更慢。
+Give each Best of N fork its own clone of your Git repository instead of a copy-on-write overlay. Each fork is then a real repository, so commits it makes are kept when you choose it as the winner. Forks take longer to create, and the wait grows with the size of your repository.|为多方案择优中的每个分支创建单独的 Git 仓库克隆。选出获胜方案时会保留该分支的提交。仓库越大，创建分支所需时间越长。
+Validation timed out.|验证超时。
+Validating setup script…|正在验证初始化脚本…
+Setup script ran successfully.|初始化脚本运行成功。
+Setup script failed.|初始化脚本运行失败。
+Copy output|复制输出
+Verbose|详细
+Narrow|窄
+Wide|宽
+Fill|填满
+Bottom Panel|底部面板
+Side Panel|侧面板
+Built-in Browser|内置浏览器
+External Browser|外部浏览器
+Block all browser JavaScript execution.|禁止执行所有浏览器 JavaScript。
+Prompt for approval before running browser scripts.|运行浏览器脚本前请求批准。
+Allow full browser script execution without prompting.|允许运行浏览器脚本且无需提示。
+A nickname for identifying this application in the companion website. Changing this will restart the connection.|在配套网站上用来识别此应用的昵称。修改后会重新连接。
+Running|运行中
+Settings Unavailable|设置不可用
+Select...|请选择…
+Permissions|权限
+Disabled|已停用
+# Expanded coverage added in v0.3.0
+Give Feedback|提供反馈
+Show All|显示全部
+Show Less|收起
+Not in Project|未归入项目
+Conversations|对话
+Open settings menu|打开设置菜单
+Upload Debug Bundle|上传调试包
+Copy version details|复制版本详情
+App|应用
+Running (Dev only)|运行中（仅开发者）
+Open File Search|打开文件搜索
+Open Conversation in New Tab|在新标签页中打开对话
+Add to Chat/Quote|添加到对话 / 引用
+Pin / Unpin Conversation|置顶 / 取消置顶对话
+Terminal: Select All|终端：全选
+Toggle Terminal Panel|切换终端面板
+Orchestrator|编排器
+Plans the work, makes design decisions, and reviews the result. Pick a top-tier model. You can also pick one per conversation from the Orchestrator row in the model menu.|负责规划任务、做出设计决策并审阅结果。建议选择高阶主力模型；你也可以在模型菜单的「编排器」行中按对话单独指定。
+The Orchestrator's own planner|编排器自带规划模型
+Offloads routine steps to a faster executor. Same quality, fewer tokens used.|将常规步骤交由更快的执行模型处理，保持同等质量并节省词元。
+Thinking effort|思考强度
+Extra|超高
+Controls how much time and quota the model spends reasoning before responding. Higher effort improves accuracy on hard problems, at the cost of slower responses and higher quota use.|控制模型在回复前投入推理的时间与配额。提高强度有助于提升复杂问题的准确率，但响应更慢、配额消耗更高。
+View Usage|查看用量
+Usage|用量
+Daily limit|每日限额
+Weekly limit|每周限额
+% left|% 剩余
+Refreshing...|正在刷新…
+Loading models...|正在加载模型…
+Error Loading Models|加载模型失败
+No Model Selected|未选择模型
+No Models Available|暂无可用模型
+Best of N Models|多方案择优模型
+Add Model|添加模型
+Edit Model|编辑模型
+Custom|自定义
+Custom models are only supported on Linux machines.|自定义模型目前仅支持 Linux 设备。
+Your quota for this model is running low.|此模型的剩余配额即将耗尽。
+Model quota reached|已达模型配额上限
+Baseline model quota reached|已达基础模型配额上限
+Insufficient AI Credits|AI 点数不足
+Enable Overages|启用超额用量
+Purchase Credits|购买点数
+See Plans|查看套餐
+Select another model|选择其他模型
+This computer|此计算机
+Every command requires approval.|每条命令都需要批准。
+Ask before sensitive operations.|执行敏感操作前询问。
+Automatically decide if commands run.|自动判断是否运行命令。
+Run all commands without restrictions.|无限制运行所有命令。
+Ask|询问
+Add|添加
+Manage|管理
+Configure|配置
+Validate|验证
+Saved|已保存
+Saving…|正在保存…
+Saving...|正在保存…
+Enter target...|输入目标…
+Edit permission target|编辑权限目标
+Keyboard shortcuts|键盘快捷键
+⚠️ Warning: "Always Proceed" is enabled without sandbox protection. This is very dangerous and we do not recommend doing this.|⚠️ 警告：已在未开启沙盒保护的情况下启用「始终执行」。这非常危险，不建议这样做。
+managed by your organization|由你的组织管理
+Blocked by organization policy|已被组织策略阻止
+Modified in|已在以下项目修改：
+Untitled project|未命名项目
+in this project|在此项目中
+in these conversations|在这些对话中
+Permission approval scope|权限批准作用范围
+Access rules|访问规则
+Access grants|访问授权
+Commands|命令
+Unsandboxed commands|沙盒外命令
+Read files|读取文件
+Write files|写入文件
+Browser actions|浏览器操作
+Browser downloads|浏览器下载
+Admin escalation|管理员提权
+Project 4K|Project 4K
+Project 4K interface without developer tooling.|不含开发者工具的 Project 4K 界面。
+The full developer experience.|完整的开发者体验。
+GitHub|GitHub
+GitHub Permissions|GitHub 权限
+GitHub Policies|GitHub 策略
+Configure GitHub access policies.|配置 GitHub 访问策略。
+Manage fine-grained permissions for GitHub.|管理 GitHub 的细粒度访问权限。
+Enable fine-grained GitHub permissions and define the org, repository, and resource-level access the agent is allowed to use.|启用细粒度 GitHub 权限，定义智能体可使用的组织、仓库及资源级访问范围。
++ Add Organization policy|+ 添加组织策略
+Delete organization policy|删除组织策略
+Delete repository policy|删除仓库策略
+Remove policy|移除策略
+Organizations|组织
+Repositories|仓库
+Repository|仓库
+Read access|读取权限
+Read access to code, refs, commits, and other repository contents.|允许读取代码、引用、提交记录及其他仓库内容。
+Toggle this on to enable read access on contents.|开启后允许读取仓库内容。
+Issues|议题（Issues）
+Issue creation|创建议题
+Allow creating issues and grant access to specific issues.|允许创建议题，并授予特定议题的访问权限。
+Toggle this on to allow creating new issues.|开启后允许创建新议题。
+Pull requests|拉取请求（PR）
+Pull Requests|拉取请求（PR）
+Allow opening pull requests and grant access to specific PRs.|允许发起拉取请求，并授予特定 PR 的访问权限。
+Toggle this on to allow creating new pull requests.|开启后允许创建新拉取请求。
+Workflow runs|工作流运行记录
+Allow reading workflow runs (list, view, watch) across the whole repository.|允许读取整个仓库的工作流运行记录（列表、查看与监听）。
+Grant read access to workflow runs and allow dispatching workflows on specific files and refs.|授予工作流运行记录的读取权限，并允许在指定文件和引用上触发工作流。
+Grant create, update, or delete access to specific branches.|授予指定分支的创建、更新或删除权限。
+Grant the selected actions on the listed branch names — a comma-separated list like main, dev, prod (glob patterns like fix-* allowed), or * for all.|对所列分支名称授予所选操作权限——使用逗号分隔（如 main, dev, prod，支持 fix-* 通配符），或填 * 代表全部。
+Grant the selected actions on the listed issue numbers — a comma-separated list like 1, 2, 3, or * for all.|对所列议题编号授予所选操作权限——使用逗号分隔（如 1, 2, 3），或填 * 代表全部。
+Grant the selected actions on the listed pull request numbers — a comma-separated list like 1, 2, 3, or * for all.|对所列拉取请求编号授予所选操作权限——使用逗号分隔（如 1, 2, 3），或填 * 代表全部。
+A comma-separated list like org-a, org-b, or * for all.|以逗号分隔的列表，例如 org-a, org-b，或填 * 代表全部。
+A comma-separated list like repo-a, repo-b, or * for all.|以逗号分隔的列表，例如 repo-a, repo-b，或填 * 代表全部。
+Remote branches|远程分支
+Workflow files|工作流文件
+Workflow refs|工作流引用
+Voice Mode|语音模式
+Voices|音色
+Voice volume|语音音量
+Voice speed|语速
+Voice engine|语音引擎
+Voice engine address|语音引擎地址
+The voice used in Voice mode. Powered by Gemini Live.|语音模式下使用的音色，由 Gemini Live 提供支持。
+How loud Antigravity's voice is.|设置 Antigravity 语音播报的音量大小。
+Not set|未设置
+Change|更改
+Delete all|全部删除
+No recordings|暂无录音
+Choose Antigravity's Voice|选择 Antigravity 音色
+Powered by Gemini Live ·|由 Gemini Live 提供支持 ·
+You can change this in|之后可在
+later.|中随时修改。
+Previous voice|上一个音色
+Next voice|下一个音色
+Clear and friendly|清晰亲切
+Confident and clear|自信清晰
+Warm and engaging|温暖生动
+Warm and approachable|温和亲近
+Deep and velvety|低沉柔和
+Light and precise|轻快精准
+Preset|预设主题
+Themes|主题
+Dark Theme|深色主题
+Light Theme|浅色主题
+Font|字体
+Display|显示
+Color|颜色
+Background|背景
+Foreground|前景
+Accent|强调色
+Contrast|对比度
+Reset to preset|恢复预设
+Pick one of these themes under Preset in Settings > Appearance.|可在「设置 > 外观」的「预设主题」下选择这些主题。
+Notification Settings|通知设置
+Notification Preferences|通知偏好设置
+To modify notification settings, open your operating system's system preferences.|如需修改系统通知权限，请打开操作系统的系统设置。
+Open System Preferences|打开系统设置
+Open Preferences|打开偏好设置
+Windows Subsystem for Linux|适用于 Linux 的 Windows 子系统（WSL）
+Run the app against a Linux environment. Connecting relaunches the app into the selected WSL distro.|在 Linux 环境中运行应用。连接后将重启并进入所选的 WSL 发行版。
+The app is currently connected to a WSL distro. Reopening locally relaunches it directly on Windows.|当前应用已连接到 WSL 发行版。在本机重新打开将直接重启回 Windows 环境。
+Connected|已连接
+Not connected|未连接
+Scan the code to open this device in Remote Control, or|扫码即可在远程控制中打开此设备，或
+copy link|复制链接
+Show Remote Control QR code|显示远程控制二维码
+Remote Control link|远程控制链接
+Remote Control Instances|远程控制实例
+These settings can only be changed on the computer running the app, not from a remote session.|这些设置只能在运行本应用的计算机上修改，无法通过远程会话更改。
+Go to the machine you are controlling and quit Antigravity. It installs pending updates the next time it starts.|请前往被控计算机退出 Antigravity，待装更新会在下次启动时自动安装。
+A new version is available.|有新版本可用。
+Side Panel Preview|侧面板预览
+Link Settings|链接设置
+Change…|更改…
+Folder where files downloaded in the built-in browser are saved.|内置浏览器下载文件的保存目录。
+Choose what to clear from the built-in browser. It can't be undone.|选择要从内置浏览器清除的数据，此操作无法撤销。
+Browsing history|浏览历史记录
+Visited URLs and autocomplete suggestions.|访问过的网址与自动补全建议。
+Clear visited URLs and autocomplete suggestions from the built-in browser.|清除内置浏览器中访问过的网址与自动补全建议。
+Cookies and other site data|Cookie 及其他网站数据
+Cookies and site data|Cookie 与网站数据
+Clear cookies and site data|清除 Cookie 与网站数据
+Cookies, site storage and cache. Signs you out of all sites in the built-in browser and reloads its open tabs.|包括 Cookie、网站存储与缓存。清除后会退出内置浏览器中所有网站的登录状态，并重新加载已打开的标签页。
+An agent is using the built-in browser. Clearing its data signs the agent out of sites and may interrupt its task.|智能体正在使用内置浏览器。清除数据会使智能体退出网站登录，并可能中断当前任务。
+Couldn't clear browsing data. Try again.|无法清除浏览数据，请重试。
+Cookies the built-in browser stores for each site. Deleting a site's cookies usually signs you out of it. Other site data (local storage, IndexedDB, cache) is cleared only by Browsing Data → Clear.|内置浏览器按网站保存的 Cookie。删除某网站的 Cookie 通常会退出该网站的登录状态；其他网站数据（本地存储、IndexedDB、缓存）需通过「浏览数据 → 清除」一并清理。
+Search sites|搜索网站
+Search sites...|搜索网站…
+Sites with cookies|保存了 Cookie 的网站
+Loading cookies…|正在加载 Cookie…
+Couldn't load cookies.|无法加载 Cookie。
+No sites have cookies in the built-in browser.|内置浏览器中暂无保存了 Cookie 的网站。
+Couldn't delete cookies for|无法删除此网站的 Cookie：
+. Try again.|，请重试。
+No sites match “|没有匹配「
+Allowed Domains|允许的域名
+Denied Sites|禁止的网站
+These allowed domain rules are set by your organization's administrator and cannot be removed.|这些允许域名规则由组织管理员设定，无法移除。
+Configure allowed and denied URLs for the browser subagent. It runs in the built-in browser, so no separate browser install is needed.|为浏览器子智能体配置允许和禁止访问的网址。它在内置浏览器中运行，无需额外安装浏览器。
+Configure allowed and denied URLs for the browser subagent (invoked with /browser). Requires|为浏览器子智能体（通过 /browser 调用）配置允许和禁止访问的网址。需要启用
+The browser subagent has been disabled by your administrator. Contact your administrator to enable browser use.|管理员已停用浏览器子智能体。请联系管理员开启浏览器使用权限。
+Delete All Data|删除所有数据
+This permanently deletes all of your Remote Agents conversations, projects, scheduled tasks, connected plugins and settings, and stops any running remote agents. It can't be undone. Data in the desktop app and your Google account are not affected, and you can keep using Remote Agents afterwards.|这将永久删除你所有的远程智能体对话、项目、计划任务、已连接的插件及设置，并停止所有正在运行的远程智能体，此操作无法撤销。桌面应用本地数据和 Google 账户数据不受影响，清理后你仍可继续使用远程智能体。
+Couldn't delete your data. Try again.|无法删除你的数据，请重试。
+Invite a Friend|邀请好友
+Signing Out...|正在退出登录…
+Project Required|需要配置项目
+License Required|需要配置许可证
+A Google Cloud project is required to use Antigravity.|使用 Antigravity 需要关联 Google Cloud 项目。
+A license or project selection is required to use Antigravity.|使用 Antigravity 需要选择许可证或关联项目。
+Select Project|选择项目
+Manage License|管理许可证
+Select Billing Model|选择计费方式
+Billing model|计费方式
+Choose a Subscription|选择订阅方案
+Available licenses|可用许可证
+Select License|选择许可证
+Other License|其他许可证
+Provide Google Cloud Project|提供 Google Cloud 项目
+Enter Google Cloud Project Details|输入 Google Cloud 项目详情
+Google Cloud Project ID|Google Cloud 项目 ID
+Project ID:|项目 ID：
+License:|许可证：
+Choose Region|选择区域
+Loading licenses...|正在加载许可证…
+Auto-assignment not configured|未配置自动分配
+Confirm Selection|确认选择
+Submitting...|正在提交…
+By using this app, you agree to its|使用本应用即表示你同意其
+Terms of Service|服务条款
+Terms of Service & Data Use|服务条款与数据使用说明
+Google Antigravity Terms of Service|Google Antigravity 服务条款
+Google Privacy Policy|Google 隐私权政策
+Prohibited Use Policy|禁止使用政策
+Legal Help|法律帮助
+Terms and Privacy:|条款与隐私：
+Telemetry|遥测
+Telemetry is turned off for your account.|你的账户已关闭遥测功能。
+This setting is turned off for your account.|你的账户已关闭此设置。
+Authenticated via Enterprise Gateway|已通过企业网关认证
+Enterprise Gateway|企业网关
+You cannot sign out from Remote Control. Please sign out on your local application.|无法从远程控制端退出登录，请在本机应用上退出。
+You are logged in using environment credentials and cannot sign out from the application.|当前使用环境变量凭据登录，无法从应用内直接退出。
+You are logged in using Application Default Credentials (ADC). To log out, undo any changes to ~/.gemini/config/config.json (or unset AGY_ADC_AUTH if launched from terminal) and restart the application.|当前使用应用默认凭据（ADC）登录。如需退出，请还原 ~/.gemini/config/config.json 中的相关修改（若从终端启动请取消设置 AGY_ADC_AUTH），然后重启应用。
+Verify that these licenses were provided by your administrator and that you trust the project ID before proceeding. Account activity and data may be logged by your organization.|继续之前，请确认这些许可证由你的管理员提供且你信任该项目 ID。你的账户活动和数据可能会被所在组织记录。
+Your Antigravity use will be associated with provided project.|你的 Antigravity 使用情况将与所提供的项目关联。
+Your Antigravity use will be associated with provided project. Make sure you trust the project ID before proceeding. Account activity and data may be logged by your organization.|你的 Antigravity 使用情况将与所提供的项目关联。继续前请确认你信任该项目 ID，账户活动与数据可能会被所在组织记录。
+Customize|自定义
+Configure default behaviors, skills, and MCP servers.|配置默认行为、技能和 MCP 服务器。
+Add MCP|添加 MCP
+Open MCP Config|打开 MCP 配置文件
+Search for MCP servers to add to your configuration|搜索要添加到配置中的 MCP 服务器
+Loading MCP servers...|正在加载 MCP 服务器…
+No MCP servers installed|尚未安装 MCP 服务器
+Use Add MCP to browse the store, or add a custom server via the MCP config.|点击「添加 MCP」浏览目录，或通过 MCP 配置文件添加自定义服务器。
+Configured servers|已配置的服务器
+Unknown Server|未知服务器
+MCP Servers Disabled|MCP 服务器已停用
+Your administrator has disabled MCP servers for this workspace.|管理员已在此工作区停用 MCP 服务器。
+Organization MCP Allowlist (Read-Only)|组织 MCP 允许列表（只读）
+These MCP allowlist rules are enforced by your organization's administrator.|这些 MCP 允许列表规则由组织管理员强制执行。
+Configure MCP Server|配置 MCP 服务器
+Enter the required configuration values to install this MCP server.|输入安装此 MCP 服务器所需的配置值。
+Enter the configuration values this MCP server needs. Saving restarts the server with them.|输入此 MCP 服务器所需的配置值，保存后将使用新配置重启服务器。
+Authenticate|认证
+Set up authentication|设置认证
+Authorization code|授权码
+Paste auth code|粘贴授权码
+Paste authorization code|粘贴授权码
+Submit|提交
+Enabling...|正在启用…
+Installing...|正在安装…
+Deleting...|正在删除…
+Downloading...|正在下载…
+Click to disable tool|点击停用此工具
+Click to enable tool|点击启用此工具
+Delete server|删除服务器
+Delete MCP Server|删除 MCP 服务器
+Delete Skill|删除技能
+Delete agent|删除智能体
+Delete plugin|删除插件
+Copy Config File Path|复制配置文件路径
+Path copied!|路径已复制！
+MCP Authentication Error:|MCP 认证错误：
+MCP Restart Error:|MCP 重启错误：
+MCP server error|MCP 服务器错误
+Ask the agent to diagnose and fix this server|让智能体诊断并修复此服务器
+Loading token usage...|正在加载词元用量…
+No token data available.|暂无词元用量数据。
+The breakdown below shows token usage from customizations like rules, skills, and MCP. If a budget is exceeded, large rules are demoted to path pointers and large customizations are excluded automatically.|下方明细展示了规则、技能与 MCP 等自定义项占用的词元。超出预算时，体积较大的规则会自动降级为文件路径指针，较大的自定义项会自动排除。
+There are no customizations enabled.|当前没有启用任何自定义项。
+Other Customizations|其他自定义项
+tokens (|词元 (
+tokens)|词元)
+Hide breakdown|收起明细
+Hide tools|收起工具列表
+Demoted|已降级
+Excluded|已排除
+Rules token budget exceeded. Large rules are demoted to path pointers.|规则词元超出预算，较大的规则已降级为路径指针。
+Customization token budget exceeded. Large customizations are excluded from context.|自定义项词元超出预算，较大的自定义项已从上下文中排除。
+Rules and customization token budgets exceeded. Large rules are demoted to path pointers and large customizations are excluded from context.|规则与自定义项词元均超出预算，较大的规则已降级为路径指针，较大的自定义项已从上下文中排除。
+Agent Hooks Configuration|智能体钩子配置
++ Add Hook|+ 添加钩子
+New hook name|新钩子名称
+Pre Tool Use|工具调用前
+Post Tool Use|工具调用后
+Pre Invocation|智能体调用前
+Post Invocation|智能体调用后
+Fires before a tool step executes.|在工具步骤执行前触发。
+Fires after a tool step completes.|在工具步骤完成后触发。
+Fires before the model is called.|在调用模型前触发。
+Fires after tool calls finish.|在工具调用结束后触发。
+Fires when the execution loop terminates.|在执行循环终止时触发。
+All tools (*)|所有工具 (*)
+Hook will trigger if any tool is executed.|执行任意工具时都会触发钩子。
+run_command or view_file|run_command 或 view_file
+Hook will only trigger if the tool name matches run_command.|仅当工具名称为 run_command 时触发钩子。
+Browser tools (browser_.*)|浏览器工具 (browser_.*)
+Hook will only trigger if the tool name starts with browser_.|仅当工具名称以 browser_ 开头时触发钩子。
+Hook will only trigger if the tool name matches run_command or view_file.|仅当工具名称为 run_command 或 view_file 时触发钩子。
+Matcher:|匹配规则：
+Command:|执行命令：
+Timeout:|超时（秒）：
+No handlers configured for|尚未为此阶段配置处理器：
+Add New Handler to|添加新处理器至
+Add Handler|添加处理器
+Save Configuration|保存配置
+Loading customizations...|正在加载自定义项…
+Loading plugins...|正在加载插件…
+Loading skills…|正在加载技能…
+No Plugins Available|暂无可用插件
+No plugins available|暂无可用插件
+No plugins available.|暂无可用插件。
+No skills available|暂无可用技能
+No description available.|暂无说明。
+Danger Zone|危险操作区
+No folders added yet.|尚未添加文件夹。
+No resources added yet.|尚未添加资源。
+No resources available|暂无可用资源
+No matching resources found.|没有找到匹配的资源。
+Add Resource|添加资源
+Remove resource|移除资源
+Filter resources...|筛选资源…
+Project Name|项目名称
+Enter project name...|输入项目名称…
+Project location|项目位置
+Folders these agents can access.|这些智能体可访问的文件夹。
+Commands and files these agents can use.|这些智能体可使用的命令与文件。
+Files, folders, and repositories you connect are accessible to your agent in this project, including during background or scheduled runs.|在此项目中连接的文件、文件夹和代码仓库可供智能体访问（包括后台或定时运行期间）。
+Uploaded files and connected resources are mounted in your cloud environment.|已上传的文件和已连接的资源会挂载到你的云端环境中。
+Uploaded project files and in-chat attachments are stored on Google servers and mounted into your cloud sandbox so your agent can read and work with them.|上传的项目文件与对话附件保存在 Google 服务器上，并挂载到云端沙盒供智能体读取和处理。
+Remove individual uploaded files or connected resources in Project Settings, or delete a project or conversation to remove its stored files.|可在「项目设置」中移除单个上传文件或已连接资源，或删除项目与对话以清理其存储的文件。
+All Workspaces|全部工作区
+Current workspace|当前工作区
+CitC workspace type|CitC 工作区类型
+Select the workspace type that will be used for new conversations started with the New Workspace option.|选择通过「新建工作区」发起新对话时使用的工作区类型。
+Google3 Configuration|Google3 配置
+Google3 projects are deprecated|Google3 项目已弃用
+Google3 projects are being deprecated. Select a CitC workspace instead.|Google3 项目即将停用，请改选 CitC 工作区。
+Nothing is running right now|当前没有正在运行的项目
+Running processes are killed. This cannot be undone.|正在运行的进程将被终止，此操作无法撤销。
+selected|项已选择
+Still running|仍在运行
+Stopping…|正在停止…
+Standalone Terminals|独立终端
+Console Telemetry|控制台遥测日志
+Print telemetry to the console|在控制台打印遥测事件
+Logs each telemetry event to the browser's DevTools console as it fires, with the click or key that caused it. Stays on across reloads until you turn it off.|在每个遥测事件触发时将其连同触发点击或按键输出到浏览器 DevTools 控制台。刷新窗口后仍保持开启，直至手动关闭。
+Feature Environment Override|特性环境覆盖
+Override feature environment|覆盖特性运行环境
+When enabled, the values below replace the auto-detected OS, host, and user type used for feature gating.|启用后，下方设定值将替代自动检测的操作系统、宿主环境与用户类型，用于特性开关判定。
+Operating System|操作系统
+Host Environment|宿主环境
+User Type|用户类型
+Auto (detected)|自动（检测值）
+Custom Flags|自定义实验标志
+Search flags|搜索实验标志
+No matching flags|没有匹配的实验标志
+Custom flag to turn on|输入要开启的实验标志
+Turn on a flag you don't have|手动开启未下发的实验标志
+Not referenced by any feature (|未被任何特性引用 (
+forced on|强制开启
+forced off|强制关闭
+Default (Mendel)|默认（Mendel）
+Flags come from Mendel experiments and from the host app. Overrides are local to this browser and change how every feature gated on the flag resolves. Some features are only read at startup — reload the window if a change does not take effect.|标志来自 Mendel 实验与宿主应用。覆盖配置仅保存在当前本地客户端，会影响所有受该标志控制的特性；部分特性仅在启动时读取，若修改后未生效请重新加载窗口。
+Workspace URI Switcher|工作区 URI 切换器
+Workspace URI to switch to|要切换到的工作区 URI
+Select or enter a workspace URI|选择或输入工作区 URI
+Sets the `workspaceUri` URL parameter and reloads, repointing the active workspace. Pick a folder from an existing project or enter a custom URI (e.g. file:///path/to/workspace).|设置 `workspaceUri` 参数并重新加载，以重新指向当前活动工作区。可从现有项目中选择文件夹，或输入自定义 URI（如 file:///path/to/workspace）。
+Feedback Type|反馈类型
+Bug Report|问题报告
+Feature Request|功能建议
+Auth and Billing|登录与计费
+Remote Control Issue|远程控制问题
+General Feedback|常规反馈
+Steps to Reproduce|复现步骤
+Steps to reproduce the issue|问题的复现步骤
+Please list the steps to reproduce the issue|请列出复现该问题的具体步骤
+Expected behavior|预期表现
+Actual behavior|实际表现
+Any error messages|相关报错信息
+Any error messages seen when trying to log in|尝试登录时看到的任何错误提示
+What functionality you expect your account tier to have available that is missing|你预期当前账户套餐应具备但缺失的功能
+How this feature would help you and other users|这项功能将如何帮助你与其他用户
+What you would like to see to address this gap in your workflow|你希望以怎样的方式弥补工作流中的这一空缺
+Whether it never connects or is intermittent/flaky|是完全无法连接，还是连接不稳定/偶发断开
+Did restarting the desktop app help?|重启桌面应用后是否有所缓解？
+Any relevant information|其他补充信息
+Attach a screenshot (optional)|附加截图（可选）
+Screenshot must be under 10 MB|截图大小不得超过 10 MB
+Attach Antigravity server logs|附带 Antigravity 服务日志
+Send feedback as|发送反馈身份
+# Antigravity 2.35.1 adaptation added in v0.4.0
+Your plan|当前套餐
+Your plan:|当前套餐：
+Enable AI credit overages|允许超额使用 AI 点数
+Enable sounds for agent|启用智能体提示音
+Enable notifications for agent|启用智能体通知
+Conversation steps|对话步骤
+Custom context menus|自定义右键菜单
+Screen reader mode|屏幕阅读器模式
+Conversation width|对话宽度
+Terminal placement|终端位置
+Markdown artifact width|Markdown 产物宽度
+Context and quota indicator|上下文与配额指示器
+Open links in|链接打开方式
+Enable browser agent|启用浏览器智能体
+Browser JavaScript execution policy|浏览器 JavaScript 执行策略
+Include Jetski default customizations|包含 Jetski 默认自定义项
+Build With Google plugins|Build With Google 插件
+Prevent sleep|阻止休眠
+Keep in menu bar|保留菜单栏图标
+Automatic check for updates|自动检查更新
+Device name|设备名称
+Not signed in|未登录
+Enable telemetry|启用遥测
+Marketing emails|营销邮件
+Delete all Remote Agents data|删除所有远程智能体数据
+Browsing data|浏览数据
+Download location|下载位置
+Browser actuation rules|浏览器操作规则
+Google One referral|Google One 推荐
+VS Code keyboard shortcuts|VS Code 键盘快捷键
+Notification settings|通知设置
+Project required|需要配置项目
+License required|需要配置许可证
+Manage hooks|管理钩子
+Operating system|操作系统
+Host environment|宿主环境
+User type|用户类型
+Open with|打开方式
+System default app|系统默认应用
+Git-on-Borg repository used when creating a new Cog workspace from your initial prompt (e.g., chromium/chromium/src or android/platform/superproject).|根据初始提示词创建 Cog 工作区时使用的 Git-on-Borg 仓库，例如 chromium/chromium/src 或 android/platform/superproject。
+Model selection|模型选择方式
+Orchestrator model selection|编排器模型选择方式
+Default uses server-managed routing and Orchestrator quota. Custom pins specific models for orchestration and execution.|「默认」使用服务端自动路由与编排器专属配额；「自定义」可分别固定编排模型与执行模型。
+Default (Gemini Pro)|默认（Gemini Pro）
+Dictation languages|听写语言
+Dictation Languages|听写语言
+Dictation language options|听写语言选项
+Available dictation languages|可用听写语言
+Selected dictation languages|已选听写语言
+Auto-detect (browser defaults)|自动检测（浏览器默认）
+Search languages to add (e.g. English, Spanish, 中文, yue)...|搜索要添加的语言（如 English、Spanish、中文、yue）…
+Toggle language list|展开/收起语言列表
+Click items to multi-select · Drag or ‹/› pills to reorder|点击可多选 · 拖动胶囊或点 ‹/› 调整优先顺序
+#1 Primary|#1 首选
+Record Audio|录制音频
+Stop Recording|停止录音
+Plugin permissions|插件权限
+Plugin Permissions|插件权限
+Changes plugins can make without asking.|插件无需每次询问即可执行的更改。
+Allowed by you|已由你允许
+Nothing is always allowed. You'll be asked before this plugin makes changes.|当前未设置始终允许项。此插件执行更改前都会先询问你。
+Included with plugin|随插件附带
+These come with the plugin and can't be revoked.|这些权限随插件内置提供，无法单独撤销。
+Permission decision|权限决定
+Signed in as|当前登录身份：
+Self-watch target presets|自监控目标预设
+[plugins]
+Customizations|自定义
+Marketplace|插件市场
+Installed|已安装
+Overview|概览
+Skills|技能
+Rules|规则
+Skills & Rules|技能与规则
+MCP Servers|MCP 服务器
+MCP Apps|MCP 应用
+Agents|智能体
+Automations|自动化
+Plugins|插件
+UI Plugins|界面插件
+Context Providers|上下文提供方
+Hooks|钩子
+Bundles|插件合集
+Installed Plugins|已安装的插件
+Browse Plugins|浏览插件
+Search plugins|搜索插件
+Search Plugins|搜索插件
+All Plugins|全部插件
+Recommended|推荐
+Popular|热门
+Featured|精选
+Newest|最新
+Manage|管理
+Installed and enabled|已安装并启用
+Add|添加
+Install|安装
+Uninstall|卸载
+Enable|启用
+Disable|停用
+Sign in required|需要登录
+Restart sign-in|重新登录
+Connect account|连接账户
+Disconnect|断开连接
+Installed globally|已在全局安装
+Install globally|全局安装
+Install in this project|在此项目中安装
+No plugins installed|尚未安装插件
+No customizations found|没有找到自定义项
+No results found|没有找到结果
+No matching plugins|没有符合条件的插件
+Suggested Prompts|建议提示词
+Starter Prompts|入门提示词
+Get Started|开始使用
+Filter by|筛选依据
+Filter plugins|筛选插件
+Version|版本
+Author|作者
+Source|来源
+Website|网站
+Permissions|权限
+Failed to load plugins|加载插件失败
+Browse Marketplace|浏览插件市场
+# Expanded coverage added in v0.3.0
+New|新
+No description available.|暂无说明。
+Explore the plugin marketplace|探索插件市场
+Explore other marketplace customizations|探索市场中的其他自定义项
+More Plugins|更多插件
+Find plugins - bundles of skills, agents, MCP servers, UI extensions and more, and install them in one click.|查找整合了技能、智能体、MCP 服务器与界面扩展的插件，一键完成安装。
+Curated sets of plugins for common workflows and roles.|面向常见工作流与角色精选的插件合集。
+What's in this bundle|合集包含内容
+This bundle has no plugins yet.|此合集暂无插件。
+No bundles available.|暂无可用合集。
+Review bundle before adding|添加前查看合集内容
+Review contents|查看内容
+Disabling or removing this bundle doesn't affect it.|停用或移除此合集不会影响该项。
+Replacing removes the currently installed plugin and installs the new one in its place.|替换将移除当前已安装的插件，并安装新插件。
+Replace with New|替换为新版本
+Keep Open|保持打开
+Removed from the marketplace. Stays installed until you uninstall it.|已从插件市场下架，在你主动卸载前仍会保留安装状态。
+Disabled. Open Details to finish setup or enable.|已停用。请打开详情完成配置或启用。
+Disabled. Open the plugin page to finish setup.|已停用。请打开插件页面完成配置。
+Enable the plugin to sign in.|请先启用插件再登录。
+Enable this plugin to manage its accounts.|请先启用此插件再管理其关联账户。
+Sign in to finish setting up this plugin.|登录以完成此插件的配置。
+Sign-in required|需要登录
+Needs re-auth|需要重新认证
+Needs reconnect|需要重新连接
+Accounts|账户
+Apps connected to your account|已关联到你账户的应用
+Sign in to an app once and your agent can use it on any device. Open an app to see the account it uses or to disconnect it.|登录应用一次后，智能体即可在任意设备上使用。打开应用可查看所关联账户或断开连接。
+Create a Plugin with the Agent|让智能体帮你创建插件
+Migrate with Agent|通过智能体迁移配置
+Create plugin|创建插件
+Search customizations...|搜索自定义项…
+No customizations match your search.|没有符合搜索条件的自定义项。
+No matching plugins found.|没有找到匹配的插件。
+Loading available plugins...|正在加载可用插件…
+Loading installed plugins...|正在加载已安装的插件…
+Loading bundles...|正在加载插件合集…
+Loading apps...|正在加载应用…
+Plugin details|插件详情
+Plugin metadata|插件元数据
+Plugins Options|插件选项
+Readme|自述文档
+Built In|内置
+Installed separately|独立安装
+# Antigravity 2.35.1 adaptation added in v0.4.0
+Get started|开始使用
+Plugin permissions|插件权限
+Changes plugins can make without asking.|插件无需每次询问即可执行的更改。
+Allowed by you|已由你允许
+Included with plugin|随插件附带
+[automation]
+Automations|自动化
+Automation|自动化任务
+New Automation|新建自动化任务
+New automation|新建自动化任务
+Create Automation|创建自动化任务
+Create automation|创建自动化任务
+Scheduled|按计划运行
+Always on|持续运行
+Live|实时运行
+Paused|已暂停
+Active|运行中
+Next run|下次运行
+Next Run|下次运行
+Last run|上次运行
+Last Run|上次运行
+Pause|暂停
+Resume|恢复
+Restart|重新启动
+Run now|立即运行
+Run Now|立即运行
+Runs|运行记录
+All runs|所有运行记录
+All Runs|所有运行记录
+Run history|运行历史
+No runs yet|暂无运行记录
+Instructions|任务指令
+Edit instructions|编辑任务指令
+Edit Instructions|编辑任务指令
+Schedule|计划
+Edit schedule|编辑计划
+Edit Schedule|编辑计划
+Time zone|时区
+Timezone|时区
+Interval|间隔
+Every day|每天
+Every hour|每小时
+Every weekday|每个工作日
+Every week|每周
+Every month|每月
+Daily|每日
+Weekly|每周
+Monthly|每月
+Weekdays|工作日
+Custom|自定义
+Custom…|自定义…
+hours|小时
+week|周
+month|月
+Time|时间
+How often|频率
+Day of the week|星期几
+Number of hours|小时数
+Repeat unit|重复单位
+Day of the month|每月几号
+Settings|设置
+Save Changes|保存更改
+Reset to default|恢复默认
+Description|说明
+Name|名称
+Untitled|未命名
+Model|模型
+Status|状态
+Environment|环境
+Trigger|触发条件
+Triggers|触发条件
+On a schedule|按计划运行
+When something happens|发生事件时
+What should it do?|任务要做什么？
+Where it runs|运行位置
+Runs as|运行身份
+Machine|计算机
+Task|任务
+Where|位置
+When|时间
+This computer|此计算机
+Remote|远程
+Change schedule|更改计划
+Change model|更改模型
+Open project settings|打开项目设置
+Create a project first.|请先创建一个项目。
+Refreshed credentials for all automations.|已刷新所有自动化任务的凭据。
+Failed to refresh credentials|无法刷新凭据
+Account connection was not completed.|尚未完成账户连接。
+Failed to create automation.|创建自动化任务失败。
+Cloud|云端
+Local|本地
+Completed|已完成
+Failed|失败
+Running|运行中
+Stopped|已停止
+Enabled|已启用
+Disabled|已停用
+Pending|等待中
+# Expanded coverage added in v0.3.0
+Hourly|每小时
+Not scheduled|未设置计划
+Run a prompt on a schedule, like a morning summary of yesterday's changes. Runs show up here.|按计划定时运行提示词（例如每天早上汇总昨天的变更），运行记录会显示在这里。
+What should the agent do on each run?|每次运行时智能体应该做什么？
+What should the agent do on each run? For example: summarize new bugs assigned to me and anything that changed overnight.|每次运行时智能体应该做什么？例如：汇总新分配给我的问题以及夜间发生的所有变更。
+For example: Morning bug summary|例如：早间问题汇总
+For example: every morning, summarize new bugs assigned to me and anything that changed overnight.|例如：每天早上汇总新分配给我的问题以及夜间发生的所有变更。
+Prompt to run when triggered...|触发时运行的提示词…
+When should it run?|何时运行？
+When it runs|运行时间
+Where should it run?|在哪里运行？
+Runs on this computer|在此计算机上运行
+Runs remotely|在远程环境中运行
+Search triggers…|搜索触发条件…
+Remove trigger|移除触发条件
+Execution Identity|执行身份
+Recent Events|近期事件
+Loading events...|正在加载事件…
+No events recorded.|暂无事件记录。
+No instructions.|暂无任务指令。
+# Antigravity 2.35.1 adaptation added in v0.4.0
+Time Zone|时区
+Reset to Default|恢复默认
+Personal agent running as you|以你本人身份运行的个人智能体
+Shared agent for your team|团队共享智能体
+Matches this automation's active identity.|与当前自动化的运行身份匹配。
+Search identities|搜索运行身份
+[composer]
+Ask anything, @ to mention|问点什么，输入 @ 可提及对象
+Ask anything, @ to mention, / for actions|问点什么，输入 @ 可提及对象，输入 / 可打开操作
+Message subagent, @ to mention|给子智能体发消息，输入 @ 可提及对象
+Message subagent, @ to mention, / for actions|给子智能体发消息，输入 @ 可提及对象，输入 / 可打开操作
+Listening. Ask anything.|正在聆听。请说出你的问题。
+Auto|自动
+Model|模型
+Model quota|模型配额
+Choose a model|选择模型
+Select model|选择模型
+Select Model|选择模型
+Add custom model|添加自定义模型
+Refresh models|刷新模型列表
+No models available|暂无可用模型
+Custom models|自定义模型
+View plans|查看套餐
+Context window|上下文窗口
+Permissions|权限
+Use global settings|使用全局设置
+Use Global Settings|使用全局设置
+Review Policy|审核策略
+Agent|智能体
+Planning|规划
+Fast|快速
+Low|低
+Medium|中
+High|高
+Thinking|思考
+Add attachment|添加附件
+Remove attachment|移除附件
+Attach files|附加文件
+Add context|添加上下文
+Attach context|附加上下文
+Send message|发送消息
+Send Message|发送消息
+Stop generation|停止生成
+Stop generating|停止生成
+Interrupt Agent|中断智能体
+Voice dictation unavailable|语音听写不可用
+Error fetching MCP prompt|获取 MCP 提示词失败
+Invalid Media|媒体文件无效
+Couldn't edit queued message|无法编辑排队中的消息
+Send now|立即发送
+Voice mode|语音模式
+Start voice mode|开始语音模式
+Mute microphone|将麦克风静音
+Unmute microphone|取消麦克风静音
+End voice session|结束语音会话
+Dictation|听写
+# Expanded coverage added in v0.3.0
+New|新
+Orchestrator|编排器
+The Orchestrator's own planner|编排器自带规划模型
+Offloads routine steps to a faster executor. Same quality, fewer tokens used.|将常规步骤交由更快的执行模型处理，保持同等质量并节省词元。
+Thinking effort|思考强度
+Extra|超高
+Max|最高
+Minimal|最低
+Controls how much time and quota the model spends reasoning before responding. Higher effort improves accuracy on hard problems, at the cost of slower responses and higher quota use.|控制模型在回复前投入推理的时间与配额。提高强度有助于提升复杂问题的准确率，但响应更慢、配额消耗更高。
+View Usage|查看用量
+Usage|用量
+Daily limit|每日限额
+Weekly limit|每周限额
+% left|% 剩余
+Refreshing...|正在刷新…
+No quota information available.|暂无配额信息。
+Loading models...|正在加载模型…
+Error Loading Models|加载模型失败
+No Model Selected|未选择模型
+No Models Available|暂无可用模型
+Best of N Models|多方案择优模型
+Enable Best-of-2|启用双方案对比（Best-of-2）
+Add Model|添加模型
+Edit Model|编辑模型
+Custom|自定义
+Custom models are only supported on Linux machines.|自定义模型目前仅支持 Linux 设备。
+Your quota for this model is running low.|此模型的剩余配额即将耗尽。
+Model quota reached|已达模型配额上限
+Baseline model quota reached|已达基础模型配额上限
+Insufficient AI Credits|AI 点数不足
+Enable Overages|启用超额用量
+Purchase Credits|购买点数
+See Plans|查看套餐
+Select another model|选择其他模型
+Select Model to Send Message|选择模型以发送消息
+Add Context|添加上下文
+Files|文件
+Folder|文件夹
+Add files|添加文件
+Mentions|提及
+Actions|操作
+Connectors|连接器
+Search connectors|搜索连接器
+Screen Recording|屏幕录制
+Drive|云端硬盘
+Google Drive|Google Drive
+Search Google Drive|搜索 Google Drive
+Set up|去配置
+Log in|登录
+Queued Messages|排队中的消息
+Queued messages|排队消息
+Sends after agent finishes working|将在智能体完成当前任务后发送
+Send Now|立即发送
+Expand queued messages|展开排队消息
+Collapse queued messages|收起排队消息
+Cancel Sending Message|取消发送消息
+Tell the agent what to do instead...|告诉智能体接下来改做什么…
+Select Environment|选择环境
+Select Worktree|选择工作树
+New Worktree|新建工作树
+Work in a New Worktree|在新工作树中运行
+Previous Worktrees|历史工作树
+No previous worktrees|暂无历史工作树
+Local Checkout|本地检出目录
+Run in your current workspace|在当前工作区中运行
+Run in a new worktree|在新工作树中运行
+Keeps working in this folder. Nothing is copied.|直接在当前文件夹中工作，不复制文件。
+Keeps your checkout untouched|保持当前检出目录不受影响
+# Antigravity 2.35.1 adaptation added in v0.4.0
+Model Quota|模型配额
+Start Voice mode|开始语音模式
+Default (Gemini Pro)|默认（Gemini Pro）
+Finalizing transcription...|正在整理转写文本…
+Sending transcribed message...|正在发送转写消息…
+Stop Recording|停止录音
+Continue as a new conversation|作为新对话继续
+Type your own answer|输入自定义回答
+Clone from This Computer|从此计算机克隆
+Clone from Remote|从远程克隆
+Cloud conversation|云端对话
+[common]
+Settings|设置
+More options|更多选项
+More actions|更多操作
+More Options|更多选项
+More Actions|更多操作
+More toolbar actions|更多工具栏操作
+New|新建
+Create|创建
+Open|打开
+Close|关闭
+Done|完成
+Back|返回
+Forward|前进
+Next|下一步
+Previous|上一步
+Continue|继续
+Confirm|确认
+Cancel|取消
+OK|确定
+Yes|是
+No|否
+Apply|应用
+Save|保存
+Save changes|保存更改
+Save Changes|保存更改
+Discard|放弃
+Discard Changes|放弃更改
+Edit|编辑
+Rename|重命名
+Duplicate|创建副本
+Copy|复制
+Cut|剪切
+Paste|粘贴
+Copy link|复制链接
+Copy Link|复制链接
+Copy path|复制路径
+Copy Path|复制路径
+Copy Markdown|复制 Markdown
+Copy to clipboard|复制到剪贴板
+Copied|已复制
+Delete|删除
+Remove|移除
+Clear|清除
+Clear all|全部清除
+Clear search|清除搜索
+Clear Search|清除搜索
+Clear filter|清除筛选
+See more results|查看更多结果
+Search|搜索
+Search...|搜索…
+Search…|搜索…
+Filter|筛选
+Sort|排序
+Show more|显示更多
+Show less|收起
+View all|查看全部
+Expand|展开
+Collapse|折叠
+Reset|重置
+Refresh|刷新
+Reload|重新加载
+Retry|重试
+Try again|重试
+Loading...|正在加载…
+Loading…|正在加载…
+No results found|没有找到结果
+Select All|全选
+Unselect All|取消全选
+Sign in|登录
+Sign In|登录
+Sign out|退出登录
+Sign Out|退出登录
+Sign in with Google|使用 Google 账号登录
+Add account|添加账户
+Help|帮助
+Learn more|了解更多
+Learn More|了解更多
+Feedback|反馈
+Send Feedback|发送反馈
+Report a Bug|报告问题
+New Conversation|新建对话
+New Window|新建窗口
+Open in New Window|在新窗口中打开
+Open in New Tab|在新标签页中打开
+Open in Browser|在浏览器中打开
+Open in Editor|在编辑器中打开
+Open in Terminal|在终端中打开
+Add to Chat|添加到对话
+Add screenshot to conversation|将截图添加到对话
+Reveal in File Explorer|在文件资源管理器中显示
+Download|下载
+Download PDF|下载 PDF
+Upload|上传
+Close Tab|关闭标签页
+Split Terminal|拆分终端
+New Terminal|新建终端
+Kill Terminal|终止终端
+Cancel Task|取消任务
+Cancel recording|取消录制
+Copy command|复制命令
+Agent Edits|智能体编辑
+Files Changed|已更改的文件
+Branch Changes|分支更改
+Code Search|代码搜索
+Rename Conversation|重命名对话
+Rename conversation|重命名对话
+Conversation name|对话名称
+Archive Conversation|归档对话
+Archive conversation|归档对话
+Archive|归档
+Unarchive|取消归档
+Restore Conversation|恢复对话
+Restore conversation|恢复对话
+Delete Conversation|删除对话
+Delete conversation|删除对话
+Delete Permanently|永久删除
+Pin Conversation|置顶对话
+Pin conversation|置顶对话
+Unpin Conversation|取消置顶对话
+Unpin conversation|取消置顶对话
+Pin|置顶
+Unpin|取消置顶
+Move to Project|移动到项目
+Move to project|移动到项目
+Ungroup|取消分组
+Show archived conversations|显示已归档的对话
+Show Archived Conversations|显示已归档的对话
+Stop|停止
+Stop Execution|停止执行
+Stop execution|停止执行
+Allow|允许
+Deny|拒绝
+Approve|批准
+Reject|拒绝
+Always Allow|始终允许
+Ask Every Time|每次都询问
+Allow once|仅允许一次
+Allow Once|仅允许一次
+Never Allow|始终拒绝
+Send feedback|发送反馈
+Customize Sidebar|自定义侧栏
+Open Workspace|打开工作区
+New Project|新建项目
+Connect to SSH Host|连接到 SSH 主机
+Connect to SSH host|连接到 SSH 主机
+Select Folder|选择文件夹
+Select a folder|选择文件夹
+Connect|连接
+Connect GitHub|连接 GitHub
+Disconnect|断开连接
+Reconnect|重新连接
+Choose File|选择文件
+Open File|打开文件
+Switch Project|切换项目
+Dismiss|关闭提示
+Dismiss error|关闭错误提示
+Dismiss service announcement|关闭服务公告
+Dismiss suggestion|关闭建议
+Enter authorization code...|输入授权码…
+Enter device name...|输入设备名称…
+Enable Notifications|启用通知
+Next Page|下一页
+Previous Page|上一页
+Current Page|当前页
+Next match|下一个匹配项
+Previous match|上一个匹配项
+Close settings|关闭设置
+Close Settings|关闭设置
+Version|版本
+# Expanded coverage added in v0.3.0
+Downloading Update|正在下载更新
+Install Update|安装更新
+Installing Update|正在安装更新
+Restart to Update|重启以更新
+Submit|提交
+Try Again|重试
+Got it|知道了
+Skip|跳过
+Decline|拒绝
+Proceed Anyway|仍然继续
+Proceed with Plan|按计划继续
+Add anyway|仍然添加
+Copied to clipboard|已复制到剪贴板
+Copy Command|复制命令
+Copy Content|复制内容
+Copy Message|复制消息
+Copy File Name|复制文件名
+Copy File Path|复制文件路径
+Copy Link Address|复制链接地址
+Copy Image|复制图片
+Copy Image Address|复制图片地址
+Copy debug info|复制调试信息
+Open in Tab|在标签页中打开
+Open in tab|在标签页中打开
+Open in new tab|在新标签页中打开
+Open in side pane|在侧边窗格中打开
+Open in External Browser|在外部浏览器中打开
+Open in external browser|在外部浏览器中打开
+Open Link in New Tab|在新标签页中打开链接
+Open Link in External Browser|在外部浏览器中打开链接
+Show in folder|在文件夹中显示
+Cancel download|取消下载
+Download File|下载文件
+Close Panel|关闭面板
+Close (Esc)|关闭 (Esc)
+Close (Escape)|关闭 (Escape)
+Share|分享
+Fork|创建分支对话
+Fork Conversation|创建分支对话
+Quote|引用
+Side Question|旁路提问
+New Side Question|新建旁路提问
+Delete Side Question|删除旁路提问
+Stop Side Question|停止旁路提问
+Good Response|回答得好
+Bad Response|回答欠佳
+Cancel Step|取消步骤
+Cancel All Tasks|取消全部任务
+Stop Subagent|停止子智能体
+Stop All Subagents|停止全部子智能体
+Confirm the command is safe to run outside of the sandbox with full network and disk access.|请确认该命令可安全地在沙盒外运行（将拥有完整网络与磁盘访问权限）。
+This command ran in the sandbox.|此命令已在沙盒内运行。
+Blocked, needs input|已暂停，等待输入
+Needs Input|等待输入
+Needs Attention|需要关注
+Thinking...|正在思考…
+Creating...|正在创建…
+Searching…|正在搜索…
+Refreshing...|正在刷新…
+# Antigravity 2.35.1 adaptation added in v0.4.0
+Continue as a new conversation|作为新对话继续
+Type your own answer|输入自定义回答
+No active terminals|暂无活动终端
+No background tasks|暂无后台任务
+No subagents|暂无子智能体
+No agents|暂无智能体
+Updating|正在更新
+Working|处理中
+Provisioning|正在准备环境
+Stalled|已停滞
+Resolved|已解决
